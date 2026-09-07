@@ -89,9 +89,3 @@ Aja como contador especializado no Terceiro Setor. Explique quais são os 3 erro
 ```
 
 ---
-
-## Como Entregar na Plataforma da DIO
-1. Crie um repositório no seu GitHub (ex: `miniguia-estudos-notebooklm`).
-2. Copie este conteúdo, cole em um arquivo chamado `README.md` na raiz do seu repositório e salve.
-3. Adicione o seu arquivo de portfólio em PDF na pasta do repositório (opcional).
-4. Submeta o link do seu repositório do GitHub na plataforma da DIO para garantir o seu **Nota 10**! 🚀
