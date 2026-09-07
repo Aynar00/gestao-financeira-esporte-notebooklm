@@ -1,3 +1,4 @@
+![Banner do Projeto](github_banner.png)
 # Guia de Gestão Financeira e Modelos de Negócio na Educação Física e Artes Marciais 🥋💼
 
 Este repositório foi desenvolvido como o projeto prático para o Desafio de Projeto da **DIO (Digital Innovation One)**: *"IA Generativa: Organização do Conhecimento com NotebookLM"*.
